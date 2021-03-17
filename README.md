@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to moment-guess 👋<br> <img src="./logo.png" /></h1>
+<h1 align="center">Welcome to java-simpledate(time)-guess 👋<br> <img src="./logo.png" /></h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.2.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/apoorv-mishra/moment-guess#readme" target="_blank">
